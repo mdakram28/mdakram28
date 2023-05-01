@@ -1,16 +1,15 @@
-### Hi there 👋
+[![Akram's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdakram28&count_private=true&show_icons=true)](https://github.com/mdakram28/github-readme-stats)
 
-<!--
-**mdakram28/mdakram28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Here are some ideas to get you started:
+I am Akram Ansari, A software engineer working as a video streaming research student at the Network-Media Systems Lab at University of Calgary. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find me on [![LinkedIn][1.2]][1].
+
+<!-- Icons -->
+
+[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (Send me a hi on LinkedIn)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://www.linkedin.com/in/mdakram28/
