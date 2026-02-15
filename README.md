@@ -12,15 +12,6 @@ Previously research at **Network-Media Systems Lab** (University of Calgary); no
 - 🏫 **Affiliation:** University of Calgary · Canada
 - 💼 **Portfolio:** [mdakram.com](https://mdakram.com)
 
----
-
-### GitHub stats
-
-<!--
-  If the image below ever breaks (Vercel rate limits), you can:
-  1. Self-host: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
-  2. Or use GitHub Actions: https://github.com/marketplace/actions/profile-readme-stats
--->
 ![Akram's GitHub stats](./profile/stats.svg)
 ---
 
