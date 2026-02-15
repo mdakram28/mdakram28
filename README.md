@@ -12,7 +12,6 @@ Previously research at **Network-Media Systems Lab** (University of Calgary); no
 - 🏫 **Affiliation:** University of Calgary · Canada
 - 💼 **Portfolio:** [mdakram.com](https://mdakram.com)
 
-![Akram's GitHub stats](./profile/stats.svg)
 ---
 
 ### Featured work
