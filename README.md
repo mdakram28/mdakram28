@@ -21,10 +21,7 @@ Previously research at **Network-Media Systems Lab** (University of Calgary); no
   1. Self-host: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
   2. Or use GitHub Actions: https://github.com/marketplace/actions/profile-readme-stats
 -->
-[![Akram's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdakram28&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdakram28&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
+![Akram's GitHub stats](./profile/stats.svg)
 ---
 
 ### Featured work
